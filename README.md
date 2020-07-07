@@ -23,8 +23,9 @@ Mirai 是一个在全平台下运行，提供 QQ Android 和 TIM PC 协议支持
 ### ✨如果需要使用mirai-native 请下载windows-386版本
 
 使用方式：下载&运行  
-linux: wget -c 下面表格的链接 && chmod +x miraiOK* && ./miraiOK*
+linux: wget -c 下面表格的链接 && chmod +x miraiOK* && ./miraiOK*  
 ↑被逼的 应该有更好的方法
+Arch: ```yaourt -S miraiok-bin``` 或 ```yay mirok-bin```
 
 ## 已经能做到
 - [x] 从几个比较~~稳定~~的镜像源下载
